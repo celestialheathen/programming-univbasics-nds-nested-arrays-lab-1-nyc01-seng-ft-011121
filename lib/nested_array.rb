@@ -15,7 +15,7 @@ CONVENTIONAL_PRODUCE = [
 ]
 
 def assembled_matrix
-  [ORGANIC_PRODUCE, CONVENTIONAL_PRODUCE]
+  [CONVENTIONAL_PRODUCE, ORGANIC_PRODUCE]
 end
 
 def sorted_matrix
